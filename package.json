@@ -116,7 +116,7 @@
     "eslint-plugin-prettier": "3.4.0",
     "eslint-plugin-primer-react": "0.7.0",
     "eslint-plugin-react": "7.24.0",
-    "eslint-plugin-react-hooks": "4.2.0",
+    "eslint-plugin-react-hooks": "4.6.0",
     "front-matter": "4.0.2",
     "jest": "27.4.5",
     "jest-axe": "5.0.1",
